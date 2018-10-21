@@ -1,0 +1,17 @@
+{
+  "paymentTransactionReference" : "PTRE4545",
+  "billingParty" : "Bank/ThirdParty",
+  "billingAmount" : "$1500",
+  "billingPeriod" : "2018-07-01 To 2018-07-31",
+  "customerBillingTransactionInvoiceStatus" : "Overdue",
+  "customerBillingTransactionReference" : "CBTR3222",
+  "billingStatement" : "statement",
+  "productInstanceReference" : "PRIR5859",
+  "paymentDueDate" : "2018-08-05",
+  "billedProductServiceActionDescription" : "DetailedDescription/InnovativeFeatures",
+  "customerReference" : "CSRE3456",
+  "billingAddress" : "12C Church Street Hudson NewYork United States",
+  "customerBillingReportingResult" : {},
+  "paymentDetails" : "Monthly",
+  "customerBillingReportingReference" : "CBOR4033"
+}

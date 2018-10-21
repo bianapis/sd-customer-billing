@@ -1,0 +1,10 @@
+{
+  "paymentTransactionReference" : "PTRE4545",
+  "paymentDueDate" : "2018-08-05",
+  "customerBillingPaymentsReference" : "CBPR0406",
+  "billingAmount" : "$1500",
+  "customerReference" : "CSRE3456",
+  "customerBillingTransactionInvoiceStatus" : "Overdue",
+  "paymentTransaction" : "CreditTransfer",
+  "customerBillingTransactionReference" : "CBTR3222"
+}

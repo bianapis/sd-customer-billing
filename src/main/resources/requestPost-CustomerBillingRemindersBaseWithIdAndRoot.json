@@ -1,0 +1,12 @@
+{
+  "billingStatement" : "statement",
+  "customerBillingReminderActivityResult" : {},
+  "billingParty" : "Bank/ThirdParty",
+  "paymentDueDate" : "2018-08-05",
+  "billingAmount" : "$1500",
+  "customerBillingReminderReference" : "CEFR9302",
+  "billingPeriod" : "2018-07-01 To 2018-07-31",
+  "customerBillingTransactionInvoiceStatus" : "Overdue",
+  "billingAddress" : "12C Church Street Hudson NewYork United States",
+  "customerBillingTransactionReference" : "CBTR3222"
+}

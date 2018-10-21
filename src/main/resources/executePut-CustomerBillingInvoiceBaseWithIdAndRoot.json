@@ -1,0 +1,13 @@
+{
+  "billingStatement" : "statement",
+  "productInstanceReference" : "PRIR5859",
+  "billingParty" : "Bank",
+  "paymentDueDate" : "2018-08-05",
+  "billedProductServiceActionDescription" : "DetailedDescription/InnovativeFeatures",
+  "billingAmount" : "$1500",
+  "billingPeriod" : "2018-07-01 To 2018-07-31",
+  "customerBillingTransactionInvoiceStatus" : "Overdue",
+  "customerBillingInvoiceReference" : "CBIR790",
+  "billingAddress" : "12C Church Street Hudson NewYork United States",
+  "customerBillingTransactionReference" : "CBTR3222"
+}
